@@ -19,6 +19,15 @@ namespace _1_9switch
         //1雪碧2可乐3红牛4矿泉水
         private void btnBuy_Click(object sender, EventArgs e)
         {
+            /*
+             * 
+             * switch使用场景，固定的值
+             * 
+             * if 用于范围值
+             * 
+             * 
+             * 
+             */
             int a = Convert.ToInt32(textBox1.Text);//这里不转也可以使用string类型
             switch (a)
             {
@@ -39,6 +48,12 @@ namespace _1_9switch
                     break;
             }
             textBox1.Text = "";
+
+
+
+            #region MyRegion
+
+            #endregion
         }
     }
 }

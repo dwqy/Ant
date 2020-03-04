@@ -3,23 +3,33 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29806.167
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-1开发环境安装", "1-1开发环境安装\1-1开发环境安装.csproj", "{7D72497F-7BC6-48CE-A42D-86865D436C05}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-1开发环境安装", "1-1开发环境安装\1-1开发环境安装.csproj", "{7D72497F-7BC6-48CE-A42D-86865D436C05}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-2工程创建以及基础设置", "1-2工程创建以及基础设置\1-2工程创建以及基础设置.csproj", "{7EC390AF-ECE8-405B-BE63-3336BB6AE781}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-2工程创建以及基础设置", "1-2工程创建以及基础设置\1-2工程创建以及基础设置.csproj", "{7EC390AF-ECE8-405B-BE63-3336BB6AE781}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-3程序结构", "1-3程序结构\1-3程序结构.csproj", "{E52A78E9-CA00-429E-9B17-0D756CA777B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-3程序结构", "1-3程序结构\1-3程序结构.csproj", "{E52A78E9-CA00-429E-9B17-0D756CA777B3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-4注释", "1-4注释\1-4注释.csproj", "{76D153E5-E280-41FF-AF3B-80EBED4DCBCF}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-4注释", "1-4注释\1-4注释.csproj", "{76D153E5-E280-41FF-AF3B-80EBED4DCBCF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-5变量", "1-5变量\1-5变量.csproj", "{30CF2F81-8BAF-4FA5-9554-0BD4135CBC42}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-5变量", "1-5变量\1-5变量.csproj", "{30CF2F81-8BAF-4FA5-9554-0BD4135CBC42}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-6命名规范", "1-6命名规范\1-6命名规范.csproj", "{E2746672-6CB8-4BF9-A1D4-90B5BDBBC2BD}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-6命名规范", "1-6命名规范\1-6命名规范.csproj", "{E2746672-6CB8-4BF9-A1D4-90B5BDBBC2BD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-7运算符以及使用", "1-7运算符以及使用\1-7运算符以及使用.csproj", "{6B7A77CF-8AE4-41F4-81C6-DC16A3A364A9}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-7运算符以及使用", "1-7运算符以及使用\1-7运算符以及使用.csproj", "{6B7A77CF-8AE4-41F4-81C6-DC16A3A364A9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-8ifelse", "1-8ifelse\1-8ifelse.csproj", "{ADF9A7BC-C7A4-4095-81A1-F374FC07A5A7}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-8ifelse", "1-8ifelse\1-8ifelse.csproj", "{ADF9A7BC-C7A4-4095-81A1-F374FC07A5A7}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-9switch", "1-9switch\1-9switch.csproj", "{BB28DB45-98F2-434A-AC31-8F6A8B2576FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-9-10switch", "1-9switch\1-9-10switch.csproj", "{BB28DB45-98F2-434A-AC31-8F6A8B2576FF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-10for语句", "1-10for语句\1-10for语句.csproj", "{B6F66A3E-7A10-4B58-9E6E-811F0186B235}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-11while语句", "1-11while语句\1-11while语句.csproj", "{64C26A97-7168-40A2-A569-624117487596}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-12数组", "1-12数组\1-12数组.csproj", "{8AF1F8C2-5E85-4485-BF2F-3603D77B5C59}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-13类与对象", "1-13类与对象\1-13类与对象.csproj", "{47527880-678F-469D-AFD7-6FB47A747ABD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-14字段与属性", "1-14字段与属性\1-14字段与属性.csproj", "{8AE1892A-17F4-4C66-9BAB-CA3F17DF9D14}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +73,26 @@ Global
 		{BB28DB45-98F2-434A-AC31-8F6A8B2576FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BB28DB45-98F2-434A-AC31-8F6A8B2576FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BB28DB45-98F2-434A-AC31-8F6A8B2576FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B6F66A3E-7A10-4B58-9E6E-811F0186B235}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6F66A3E-7A10-4B58-9E6E-811F0186B235}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6F66A3E-7A10-4B58-9E6E-811F0186B235}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6F66A3E-7A10-4B58-9E6E-811F0186B235}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64C26A97-7168-40A2-A569-624117487596}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64C26A97-7168-40A2-A569-624117487596}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64C26A97-7168-40A2-A569-624117487596}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64C26A97-7168-40A2-A569-624117487596}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AF1F8C2-5E85-4485-BF2F-3603D77B5C59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AF1F8C2-5E85-4485-BF2F-3603D77B5C59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AF1F8C2-5E85-4485-BF2F-3603D77B5C59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AF1F8C2-5E85-4485-BF2F-3603D77B5C59}.Release|Any CPU.Build.0 = Release|Any CPU
+		{47527880-678F-469D-AFD7-6FB47A747ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{47527880-678F-469D-AFD7-6FB47A747ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{47527880-678F-469D-AFD7-6FB47A747ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{47527880-678F-469D-AFD7-6FB47A747ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8AE1892A-17F4-4C66-9BAB-CA3F17DF9D14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8AE1892A-17F4-4C66-9BAB-CA3F17DF9D14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8AE1892A-17F4-4C66-9BAB-CA3F17DF9D14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8AE1892A-17F4-4C66-9BAB-CA3F17DF9D14}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
