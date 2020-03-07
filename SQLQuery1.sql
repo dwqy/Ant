@@ -1,0 +1,1 @@
+﻿select * from Students where name=N'小明'

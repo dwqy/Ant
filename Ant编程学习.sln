@@ -33,15 +33,17 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-14字段与属性", "1-14
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-15方法的定义和使用", "1-15方法的定义和使用\1-15方法的定义和使用.csproj", "{0A4F8895-9CBC-41BC-9606-D431D4F5A9FB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-16方法重载", "1-16方法重载\1-16方法重载.csproj", "{A95021A3-C1F9-492A-83DC-9A199B3351F0}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-16方法重载", "1-16方法重载\1-16方法重载.csproj", "{A95021A3-C1F9-492A-83DC-9A199B3351F0}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1-17构造方法", "1-17构造方法\1-17构造方法.csproj", "{5328B5C4-969F-4601-BF31-2E4808EFA080}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "1-17构造方法", "1-17构造方法\1-17构造方法.csproj", "{5328B5C4-969F-4601-BF31-2E4808EFA080}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-1课程说明", "2-1课程说明\2-1课程说明.csproj", "{3104BEB2-B49A-490B-B8BB-0636E15FB2A2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-0课程说明", "2-1课程说明\2-0课程说明.csproj", "{3104BEB2-B49A-490B-B8BB-0636E15FB2A2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-2数据库介绍", "2-2数据库介绍\2-2数据库介绍.csproj", "{67363250-3EE6-41A0-A119-19D0757910F3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-1数据库介绍", "2-2数据库介绍\2-1数据库介绍.csproj", "{67363250-3EE6-41A0-A119-19D0757910F3}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2-3创建数据库和链接", "2-3创建数据库和链接\2-3创建数据库和链接.csproj", "{93B118B8-3C72-4633-A99D-9586AC5C3E45}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-2创建数据库和链接", "2-3创建数据库和链接\2-2创建数据库和链接.csproj", "{93B118B8-3C72-4633-A99D-9586AC5C3E45}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-3单一查询", "2-单一查询\2-3单一查询.csproj", "{FEABC31C-E928-4E50-B7F5-82458AD54EC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -129,6 +131,10 @@ Global
 		{93B118B8-3C72-4633-A99D-9586AC5C3E45}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{93B118B8-3C72-4633-A99D-9586AC5C3E45}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{93B118B8-3C72-4633-A99D-9586AC5C3E45}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FEABC31C-E928-4E50-B7F5-82458AD54EC2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FEABC31C-E928-4E50-B7F5-82458AD54EC2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FEABC31C-E928-4E50-B7F5-82458AD54EC2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FEABC31C-E928-4E50-B7F5-82458AD54EC2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
