@@ -43,7 +43,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-1数据库介绍", "2-2�
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-2创建数据库和链接", "2-3创建数据库和链接\2-2创建数据库和链接.csproj", "{93B118B8-3C72-4633-A99D-9586AC5C3E45}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-3单一查询", "2-单一查询\2-3单一查询.csproj", "{FEABC31C-E928-4E50-B7F5-82458AD54EC2}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "2-3 单一查询", "2-单一查询\2-3 单一查询.csproj", "{FEABC31C-E928-4E50-B7F5-82458AD54EC2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
